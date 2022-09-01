@@ -1,10 +1,10 @@
-# Zazu Kids Shopping Website
+# Webshop application
 
-> A longer description
+> Kids clothing online store
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [webshop for kids clothing](#name-of-project)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
